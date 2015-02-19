@@ -1,0 +1,17 @@
+{
+  "uuid": "c5221f72-57b1-488f-bf7e-47f3e6c8a8f0",
+  "shortName": "KhelljyrNotes",
+  "longName": "KhelljyrNotes",
+  "companyName": "Aldeo Labs",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
